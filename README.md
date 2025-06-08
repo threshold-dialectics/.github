@@ -87,13 +87,21 @@ If you use the concepts, code, or data from this project in your research, we wo
 To cite the book:
 
 @book{pond2025threshold,
+
   author    = {Axel Pond},
+  
   title     = {Threshold Dialectics: Understanding Complex Systems and Enabling Active Robustness},
+  
   year      = {2025},
+  
   isbn      = {978-82-693862-2-6},
+  
   publisher = {Amazon Kindle Direct Publishing},
+  
   url       = {https://www.thresholddialectics.com},
+  
   note      = {Code repository: \url{https://github.com/threshold-dialectics}}
+  
 }
 
 
