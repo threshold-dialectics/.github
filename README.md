@@ -2,6 +2,10 @@
 
 Welcome to the official GitHub organization for the book **"Threshold Dialectics: Understanding Complex Systems and Enabling Active Robustness"** by Axel Pond. This organization is the central hub for the 21 repositories containing all the source code for simulations, data analyses, and figures presented in the book. Our mission is to foster an open, collaborative, and reproducible research community around these ideas.
 
+Get the e-book for free on Gumroad: https://axelpond.gumroad.com/l/threshold_dialectics
+
+Or buy the physical hard cover version printed in colors on Amazon: https://www.amazon.com/Threshold-Dialectics-Understanding-Enabling-Robustness/dp/8269386227
+
 ---
 
 ## What is Threshold Dialectics?
