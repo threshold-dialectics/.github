@@ -60,21 +60,21 @@ The code for each chapter is organized into its own repository to ensure clarity
 | Part | Chapter | Title | Repository Link |
 | :--: | :---: | :--- | :--- |
 | **I** | **1-3** | **Foundations: The Theoretical Landscape of Threshold Dialectics** | "(Conceptual chapters - no primary code repo)" |
-| **II** | **4** | **The Tolerance Sheet: Mathematical Derivation** | [([https://github.com/threshold-dialectics/chap04-tolerance-sheet](https://github.com/threshold-dialectics/chap4_tolerance_sheet))](https://github.com/threshold-dialectics/chap4_tolerance_sheet) |
-| **II** | **5** | **Energetics of Perception and Information** | [[["chap05-energetics-perception"](https://github.com/threshold-dialectics/chap05-energetics-perception)](https://github.com/threshold-dialectics/chap5_perception_gain_optimization)](https://github.com/threshold-dialectics/chap5_perception_gain_optimization) |
-| **II** | **6** | **Lever Dynamics and Diagnostics: The Speed & Couple Indices** |[ [["chap06-diagnostics-speed-couple"](https://github.com/threshold-dialectics/chap06-diagnostics-speed-couple)](https://github.com/threshold-dialectics/chap6_escape_the_potential_well)](https://github.com/threshold-dialectics/chap6_tightening_loop_failure_dynamic_6B) |
-| **III**| **7** | **Instantiating TD in an FEP-Driven Agent** | [[["chap07-fep-agent-instantiation"](https://github.com/threshold-dialectics/chap07-fep-agent-instantiation) ](https://github.com/threshold-dialectics/chap7_emergence_of_TD_from_FEP)](https://github.com/threshold-dialectics/chap7_emergence_of_TD_from_FEP)|
-| **III**| **9** | **Adaptive Lever Management: From Heuristics to RL** |[[ ["chap09-adaptive-lever-management"](https://github.com/threshold-dialectics/chap09-adaptive-lever-management) ](https://github.com/threshold-dialectics/chap9_active_gain_reinforcement_learning_agent)](https://github.com/threshold-dialectics/chap9_active_gain_reinforcement_learning_agent)|
-| **IV** | **11**| **Identifying and Classifying the Stages of the Phoenix Loop** | [[["chap11-phoenix-loop-classification"](https://github.com/threshold-dialectics/chap11-phoenix-loop-classification) ](https://github.com/threshold-dialectics/chap11_phoenix_loop_classification)](https://github.com/threshold-dialectics/chap11_phoenix_loop_classification)|
-| **IV** | **12**| **Emergence of the Phoenix Loop from System Dynamics** | [[["chap12-phoenix-loop-emergence"](https://github.com/threshold-dialectics/chap12-phoenix-loop-emergence) ](https://github.com/threshold-dialectics/chap12_phoenix_loop_emergence_from_FEP)](https://github.com/threshold-dialectics/chap12_phoenix_loop_emergence_from_FEP)|
-| **V** | **13**| **Measuring Complexity** | [https://github.com/threshold-dialectics/chap13_complexity_measured](https://github.com/threshold-dialectics/chap13_complexity_measured) |
-| **V** | **14**| **The Evolving Architecture of Resilience ($w_k$ Self-Organization)** | [[["chap14-wk-evolution"](https://github.com/threshold-dialectics/chap14-wk-evolution) ](https://github.com/threshold-dialectics/chap14_evolved_tolerance_sheet)](https://github.com/threshold-dialectics/chap14_evolved_tolerance_sheet)|
-| **V** | **15**| **Simulating TD with Sandpile Dynamics** |[[ ["chap15-sandpile-simulations"](https://github.com/threshold-dialectics/chap15-sandpile-simulations) ](https://github.com/threshold-dialectics/chap15_sandpile_dynamics)](https://github.com/threshold-dialectics/chap15_sandpile_dynamics)|
-| **VI** | **16**| **Fractals as Frozen Signatures of Threshold Dynamics** |[[ ["chap16-fractal-signatures"](https://github.com/threshold-dialectics/chap16-fractal-signatures) ](https://github.com/threshold-dialectics/chap16_fractals_experiment_16C)](https://github.com/threshold-dialectics/chap16_fractals_experiment_16B)|
-| **VI** | **17**| **TD and Emergence: Form and Networks** | [[["chap17-emergence-of-form"](https://github.com/threshold-dialectics/chap17-emergence-of-form) ](https://github.com/threshold-dialectics/chap17_evolution)](https://github.com/threshold-dialectics/chap17_evolution)|
-| **VI** | **18**| **Scaling Threshold Dialectics: Nested Systems** |[[ ["chap18-scaling-td"](https://github.com/threshold-dialectics/chap18-scaling-td)](https://github.com/threshold-dialectics/chap18_scaling_experiment_18A)](https://github.com/threshold-dialectics/chap18_scaling_experiment_18B) |
-| **VII** | **19**| **Applications of Threshold Dialectics** | [https://github.com/threshold-dialectics/chap19_bubble_and_lake_case_studies](https://github.com/threshold-dialectics/chap19_bubble_and_lake_case_studies) |
-| **VII** |**20** | **Practical Implementation of Threshold Dialectics** | [https://github.com/threshold-dialectics/chap20_burnout_cascade](https://github.com/threshold-dialectics/chap20_burnout_cascade)
+| **II** | **4** | **The Tolerance Sheet: Mathematical Derivation** | https://github.com/threshold-dialectics/chap4_tolerance_sheet |
+| **II** | **5** | **Energetics of Perception and Information** | https://github.com/threshold-dialectics/chap5_perception_gain_optimization |
+| **II** | **6** | **Lever Dynamics and Diagnostics: The Speed & Couple Indices** |https://github.com/threshold-dialectics/chap6_tightening_loop_failure_dynamic_6B |
+| **III**| **7** | **Instantiating TD in an FEP-Driven Agent** | https://github.com/threshold-dialectics/chap7_emergence_of_TD_from_FEP|
+| **III**| **9** | **Adaptive Lever Management: From Heuristics to RL** | https://github.com/threshold-dialectics/chap9_active_gain_reinforcement_learning_agent|
+| **IV** | **11**| **Identifying and Classifying the Stages of the Phoenix Loop** | https://github.com/threshold-dialectics/chap11_phoenix_loop_classification |
+| **IV** | **12**| **Emergence of the Phoenix Loop from System Dynamics** | https://github.com/threshold-dialectics/chap12_phoenix_loop_emergence_from_FEP |
+| **V** | **13**| **Measuring Complexity** | https://github.com/threshold-dialectics/chap13_complexity_measured |
+| **V** | **14**| **The Evolving Architecture of Resilience ($w_k$ Self-Organization)** | https://github.com/threshold-dialectics/chap14_evolved_tolerance_sheet|
+| **V** | **15**| **Simulating TD with Sandpile Dynamics** | https://github.com/threshold-dialectics/chap15_sandpile_dynamics|
+| **VI** | **16**| **Fractals as Frozen Signatures of Threshold Dynamics** | https://github.com/threshold-dialectics/chap16_fractals_experiment_16B |
+| **VI** | **17**| **TD and Emergence: Form and Networks** | https://github.com/threshold-dialectics/chap17_evolution |
+| **VI** | **18**| **Scaling Threshold Dialectics: Nested Systems** | https://github.com/threshold-dialectics/chap18_scaling_experiment_18B |
+| **VII** | **19**| **Applications of Threshold Dialectics** | https://github.com/threshold-dialectics/chap19_bubble_and_lake_case_studies |
+| **VII** |**20** | **Practical Implementation of Threshold Dialectics** |https://github.com/threshold-dialectics/chap20_burnout_cascade |
 
 ## Getting Started and Contributing
 
